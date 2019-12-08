@@ -15,6 +15,7 @@ En la barra de dirección del Navegador, se sustituye "edit#gid" por "export?for
 Copiamos la dirección web de la barra de direcciones, y esa será la dirección que pondremos en:
 
 df = pd.read_csv('https://docs.google.com/spreadsheets/d/1lScnpFtSA0YtazWWGIohe9-uD3GiiYjBzA3_DMI9yy8/export?format=csv&gid=446981189')
+
 (por ejemplo, ese link de "data.csv" lo tengo compartido en mi Google Drive)
 
 2. Poner icono con enlace a Google Colab de un archivo Jupyter Notebook (ipynb) en Github
@@ -28,7 +29,9 @@ Escribimos
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-(editar este archivo README.md, para poder ver el código). Cambiamos la dirección que enlaza al archivo ipynb a la dirección de nuestro ipynb en Google Colab
+(editar este archivo README.md, para poder ver el código). 
+
+https://mybinder.org/https://mybinder.org/Cambiamos la dirección que enlaza al archivo ipynb a la dirección de nuestro ipynb en Google Colab
 
 3. Subir directorio de archivos Jupyter NB (o archivo individual ipynb)
 
