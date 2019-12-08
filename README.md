@@ -55,7 +55,7 @@ https://mybinder.org/
 
  OJO!! En la plataforma Binder NO están instalados los paquetes Python que queramos importar (p. ej.: import pandas as pd). Para esto, tendremos que instalarlos primero en el archivo ipynb abierto en binder --> !pip install pandas
  
- **4. Bamboolib. He creado un repositorio a partir de la plantilla (bamboo) **
+**4. Bamboolib. He creado un repositorio a partir de la plantilla (bamboo) **
  
  https://github.com/8080labs/bamboolib_binder_template/generate
  
