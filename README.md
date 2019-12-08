@@ -46,3 +46,9 @@ https://mybinder.org/
   "Github" -> Repositorio donde está el archivo
   
   "Path to a notebook file (optional)" -> Nombre del archivo (p. ej.: prueba.ipynb)--> Launch
+  
+  IMPORTANTE. Si queremos guardarnos el link --> Al final de la configuración, copiamos el enlace al icono con la dirección de acceso.
+  
+ Se pone en un Markdown de Github (como Google Colab). Lleva entre corchetes tanto el icono, como la dirección de acceso. P.ej.:
+ 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josealfon/prueba/master)
