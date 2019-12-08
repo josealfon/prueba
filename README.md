@@ -31,6 +31,7 @@ Escribimos
 (editar este archivo README.md, para poder ver el código). Cambiamos la dirección que enlaza al archivo ipynb a la dirección de nuestro ipynb en Google Colab
 
 3. Subir directorio de archivos Jupyter NB (o archivo individual ipynb)
+
 https://mybinder.org/
 
   * Lanzar un repositorio completo:
