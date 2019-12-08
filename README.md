@@ -15,7 +15,7 @@ df = pd.read_csv('https://docs.google.com/spreadsheets/d/1lScnpFtSA0YtazWWGIohe9
 https://github.com/josealfon/colabtools/blob/master/notebooks/colab-github-demo.ipynb
 En el archivo ipynb abrimos una casilla de Markdown (o lo escribimos directamente en una ya creadad de Markdown)
 Escribimos
-###[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
-(sin los asteriscos). Cambiamos la dirección que enlaza al archivo ipynb a la dirección de nuestro ipynb en Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+(editar este archivo README.md, para poder ver el código). Cambiamos la dirección que enlaza al archivo ipynb a la dirección de nuestro ipynb en Google Colab
 
 
