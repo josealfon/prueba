@@ -49,7 +49,9 @@ https://mybinder.org/
   
   "Path to a notebook file (optional)" -> Nombre del archivo (p. ej.: prueba.ipynb)--> Launch
   
-  IMPORTANTE. Si queremos guardarnos el link --> Al final de la configuración, copiamos el enlace al icono con la dirección de acceso.'https://docs.google.com/spreadsheets/d/1lScnpFtSA0YtazWWGIohe9-uD3GiiYjBzA3_DMI9yy8/export?format=csv&gid=446981'https://docs.google.com/spreadsheets/d/1lScnpFtSA0YtazWWGIohe9-uD3GiiYjBzA3_DMI9yy8/export?format=csv&gid=446981189'189'
+  IMPORTANTE. Si queremos guardarnos el link --> Al final de la configuración, copiamos el enlace al icono con la dirección de acceso.
+  
+  'https://docs.google.com/spreadsheets/d/1lScnpFtSA0YtazWWGIohe9-uD3GiiYjBzA3_DMI9yy8/export?format=csv&gid=446981'https://docs.google.com/spreadsheets/d/1lScnpFtSA0YtazWWGIohe9-uD3GiiYjBzA3_DMI9yy8/export?format=csv&gid=446981189'189'
   
  Se pone en un Markdown de Github (como Google Colab). Lleva entre corchetes tanto el icono, como la dirección de acceso. P.ej.:
  
