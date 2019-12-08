@@ -52,3 +52,5 @@ https://mybinder.org/
  Se pone en un Markdown de Github (como Google Colab). Lleva entre corchetes tanto el icono, como la dirección de acceso. P.ej.:
  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josealfon/prueba/master)
+
+ OJO!! En la plataforma Binder NO están instalados los paquetes Python que queramos importar (p. ej.: import pandas as pd). Para esto, tendremos que instalarlos primero en el archivo ipynb abierto en binder --> !pip install pandas
