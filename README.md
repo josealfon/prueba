@@ -1,6 +1,6 @@
 # Prueba
 ## Varios tutoriales
-1. Como leer desde pandas un archivo csv subido a Google Drive
+**1. Como leer desde pandas un archivo csv subido a Google Drive**
 
 Subimos el archivo csv a Drive y pulsamos con ratón derecho - Compartir
 
@@ -18,7 +18,7 @@ df = pd.read_csv('https://docs.google.com/spreadsheets/d/1lScnpFtSA0YtazWWGIohe9
 
 (por ejemplo, ese link de "data.csv" lo tengo compartido en mi Google Drive)
 
-2. Poner icono con enlace a Google Colab de un archivo Jupyter Notebook (ipynb) en Github
+**2. Poner icono con enlace a Google Colab de un archivo Jupyter Notebook (ipynb) en Github**
 
 (ver github "googlecolab/colabtools") (yo le tengo hecho un fork)
 
@@ -35,7 +35,7 @@ https://mybinder.org/https://mybinder.org/
 
 Cambiamos la dirección que enlaza al archivo ipynb a la dirección de nuestro ipynb en Google Colab
 
-3. Subir directorio de archivos Jupyter NB (o archivo individual ipynb)
+**3. Subir directorio de archivos Jupyter NB (o archivo individual ipynb)**
 
 https://mybinder.org/
 
@@ -57,7 +57,7 @@ https://mybinder.org/
 
  OJO!! En la plataforma Binder NO están instalados los paquetes Python que queramos importar (p. ej.: import pandas as pd). Para esto, tendremos que instalarlos primero en el archivo ipynb abierto en binder --> !pip install pandas
  
- 4. Bamboolib. He creado un repositorio a partir de la plantilla (bamboo) 
+ **4. Bamboolib. He creado un repositorio a partir de la plantilla (bamboo) **
  
  https://github.com/8080labs/bamboolib_binder_template/generate
  
