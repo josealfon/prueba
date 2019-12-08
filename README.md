@@ -13,6 +13,7 @@ En la barra de dirección del Navegador, se sustituye "edit#gid" por "export?for
 (Si le damos a Enter vemos que nos da la opción de descargar el archivo csv-> funciona)
 
 Copiamos la dirección web de la barra de direcciones, y esa será la dirección que pondremos en:
+
 df = pd.read_csv('https://docs.google.com/spreadsheets/d/1lScnpFtSA0YtazWWGIohe9-uD3GiiYjBzA3_DMI9yy8/export?format=csv&gid=446981189')
 (por ejemplo, ese link de "data.csv" lo tengo compartido en mi Google Drive)
 
@@ -29,4 +30,15 @@ Escribimos
 
 (editar este archivo README.md, para poder ver el código). Cambiamos la dirección que enlaza al archivo ipynb a la dirección de nuestro ipynb en Google Colab
 
+3. Subir directorio de archivos Jupyter NB (o archivo individual ipynb)
+https://mybinder.org/
 
+  * Lanzar un repositorio completo:
+  
+  "Github" -> Pegamos la dirección de Github al repositorio con los ipynb (o con carpetas, subcarpetas, archivos)--> Launch
+  
+  * Lanzar un archivo ipynb individual:
+  
+  "Github" -> Repositorio donde está el archivo
+  
+  "Path to a notebook file (optional)" -> Nombre del archivo (p. ej.: prueba.ipynb)--> Launch
